@@ -1,6 +1,6 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwakeupandcode.com%2Fcsharp-resources%2F&psig=AOvVaw3SjfRlTEdZiq3zeOiKv8XI&ust=1691219933317000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPit-q-7woADFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Uğur Çinal</h1>
-<h3 align="center">A passionate backend develper from Turkiye</h3>
+<h3 align="center">A passionate backend developer from Turkiye</h3>
 
 - 🔭 I’m currently working on **C#**
 
